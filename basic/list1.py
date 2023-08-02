@@ -28,7 +28,6 @@ def match_ends(words):
         count += 1
   return count
 
-
 # B. front_x
 # Given a list of strings, return a list with the strings
 # in sorted order, except group all the strings that begin with 'x' first.
